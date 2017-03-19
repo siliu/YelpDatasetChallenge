@@ -1,0 +1,51 @@
+
+Bars : top words for 5 concepts :  (between_SS / total_SS =  69.4 %)
+ [1] "business"   "place"      "food"       "service"    "staff"      "drinks"     "great"      "atmosphere" "time"       "beer"      
+ [2] "business"   "food"       "place"      "service"    "staff"      "great"      "drinks"     "atmosphere" "time"       "beer"      
+ [3] "billet"     "interest"   "hill"       "squirrel"   "selections" "plaza"      "look"       "variety"    "pizzas"     "front"     
+ [4] "continental" "kristi"      "coworkers"   "desources"   "northern"    "pregame"     "best"        "lavo"        "suicide"     "jacob"      
+ [5] "siglo"       "manny"       "believe"     "mixologist"  "humor"       "everytime"   "buddies"     "reuben"      "prohibition" "beef"       
+
+American Traditional:  (between_SS / total_SS =  88.1 %)
+ [1] "business"   "restaurant" "food"       "hill"       "service"    "place"      "years"      "price"      "ride"       "waste"     
+ [2] "jilly"        "goodbye"      "certificates" "gods"         "customers"    "table"        "loaf"         "valley"       "monty"    "caine"       
+ [3] "kitchener"  "canasta" "squirt"  "ketchup"  "busiest"   "evah"    "jokes"  "foyer" "http://www.wsoctv.com/news/news/local/customers-say---overcharged-hundreds-dolla/npnlm/" "christmas"                                                                              
+ [4] "canasta"   "kitchener" "skillet"   "dough"     "happiness" "pizza"     "pizookie"  "picture"   "cookie"  "cauldron" 
+ [5] "place"      "service"    "food"       "staff"      "breakfast"  "burger"     "time"       "wings"      "atmosphere" "chicken" 
+
+Mexican:  (between_SS / total_SS =  88.6 %)
+ [1] "business" "location" "place"    "food"     "service"  "tacos"    "staff"    "taco"     "time"     "burrito" 
+ [2] "location" "business" "place"    "tacos"    "food"     "service"  "burrito"  "taco"     "staff"    "time"    
+ [3] "hanshiktaco" "escabeche"   "pozole"      "brian"       "rude"        "gordo"       "raspados"    "cocktails"   "tomatoes"    "flan"       
+ [4] "tolteca"   "burrito"   "staff"     "breakfast" "customers" "waitress"  "rafa"      "realz"     "tacos"     "staple"   
+ [5] "location" "tacos"    "place"    "burrito"  "asada"    "carne"    "food"     "staff"    "salsa"    "great" 
+
+Chinese:  (between_SS / total_SS =  78.9 %)
+ [1] "shocker"    "dilf"       "owner"      "variations" "yelp"       "service"    "fact"       "chicken"    "general"    "everything"
+ [2] "explanation" "ghetto"      "charges"     "runaround"   "sorta"       "service"     "worth"       "chicken"     "food"        "rice"       
+ [3] "ghetto"      "explanation" "place"       "amazing"     "youll"       "food"        "chicken"     "theres"      "fool"        "matter"     
+ [4] "place"      "business"   "service"    "food"       "delivery"   "chicken"    "restaurant" "rice"       "order"      "time"      
+ [5] "update"   "july"     "anyone"   "business" "service"  "food"     "delivery" "chicken"  "rice"     "shrimp"  
+ 
+ CoffeeTea: (between_SS / total_SS =  74.4 %)
+ [1] "aaaaaaaaaaand" "booo"          "tooooo"        "hachoir"       "book"          "views"         "suggestions"   "drive-thru"    "wifi"          "business"     
+ [1] "hachoir"       "tooooo"        "booo"          "aaaaaaaaaaand" "waffles"       "toppings"      "tonight"       "economy"       "vegas"         "south"        
+ [1] "tooooo"        "hachoir"       "booo"          "aaaaaaaaaaand" "breakfast"     "fèves"         "tartelettes"   "vais"          "upmarket"      "bobs"         
+ [1] "booo"          "tooooo"        "aaaaaaaaaaand" "hachoir"       "lady"          "nothing"       "!!!!"          "shot"          "thing"         "rush"         
+ [1] "starbucks" "coffee"    "location"  "place"     "service"   "staff"     "donuts"    "time"      "food"      "drink"
+ 
+ SpecialtyFood: (between_SS / total_SS =  77.9 %)
+ [1] "drug"      "rating"    "farmer"    "jars"      "dumplings" "mekong"    "toast"     "mangos"    "online"    "chamango" 
+ [2] "tolteca" "tongue"  "recipes" "star"    "love"    "shrimp"  "honesty" "meat"    "diner"   "passive"
+ [3] "honesty"   "vegans"    "perfect"   "city"      "montreal"  "thing"     "selection" "people"    "butcher"   "service"  
+ [4] "buffalo"   "cheese"    "vegan"     "bread"     "honesty"   "food"      "items"     "anchovies" "clark"     "makers"   
+ [5] "place"     "sushi"     "staff"     "food"      "chocolate" "service"   "store"     "great"     "prices"    "selection"
+ 
+ Desserts:(between_SS / total_SS =  91.9 %)
+
+ [1] "drug" "fresh" "loveeee" "breads" "smash" "cake" "pantry" "phrase" "scratch" "wholefoods"
+ [2] "yummy" "birthday" "prices" ”gelato" "cream" "coupon" “wish" "rock" "problem" "mesa"    
+ [3] "horror"  "http://www.yelp.com/biz_photos/heavens-cookie--creations-las-vegas-2?select=v52ao_nm0rrzljky-voqqa#ikwrckwfrflxplgmaerg3g"
+ "rice" "event" "schools" "comparison" "plain" "ingredient" "chai" "meal"                                                                                                                     
+ [4] "pretty" "blizzard" "months" "place" "cake" "flavors" "cream" "treat" "chocolate" "yogurt"   
+ [5] "months" "place" "cake" "flavors" "cream" "chocolate" “yogurt" "service" "cupcakes" "coffee" 

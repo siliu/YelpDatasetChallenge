@@ -1,0 +1,5 @@
+javac -classpath langdetect-03-03-2014/lib/langdetect.jar LangDetect.java
+java -cp langdetect-03-03-2014/lib/langdetect.jar:langdetect-03-03-2014/lib/jsonic-1.2.0.jar:. LangDetect
+
+javac -classpath stanford-postagger-2011-04-20/stanford-postagger-2011-04-20.jar Tagging.java
+java -cp stanford-postagger-2011-04-20/stanford-postagger-2011-04-20.jar:. Tagging
